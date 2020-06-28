@@ -11,6 +11,7 @@ function forLoop(arr){
   return arr
 }
 
+<<<<<<< HEAD
 function whileLoop(n){
   while(n>0){
     console.log(n)
@@ -40,3 +41,5 @@ function doWhileLoop(num){
 
 
 
+=======
+>>>>>>> 0ee552e8a4f9166fa874a9660da64df9c51f553a
